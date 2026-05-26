@@ -1,0 +1,4 @@
+# Railway Deployment Configuration
+
+[build]
+provider = "nixpacks"
