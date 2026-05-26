@@ -1,4 +1,4 @@
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4f0ad4ef-9253-47c7-8f62-44a1f39e39d8" /># 🩺 AI-Based Skin Disease Diagnosis System  
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4f0ad4ef-9253-47c7-8f62-44a1f39e39d8" />#
 ### Deep Learning | Transfer Learning | Explainable AI | Medical Imaging
 
 <p align="center">
