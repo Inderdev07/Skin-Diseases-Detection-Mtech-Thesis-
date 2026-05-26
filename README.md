@@ -1,4 +1,3 @@
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4f0ad4ef-9253-47c7-8f62-44a1f39e39d8" />#
 ### Deep Learning | Transfer Learning | Explainable AI | Medical Imaging
 
 <p align="center">
@@ -55,7 +54,7 @@ The system aims to provide:
 
 <p align="center">
 
-<img src="[https://raw.githubusercontent.com/ageron/handson-ml2/master/images/cnn/cnn_architecture.png](https://drive.google.com/file/d/1riwDGDXgREllXuSQ96OG6s1LwPjocuUD/view?usp=sharing)" width="800">
+<img src="[https://drive.google.com/file/d/1riwDGDXgREllXuSQ96OG6s1LwPjocuUD/view?usp=sharing]" width="800">
 
 </p>
 
